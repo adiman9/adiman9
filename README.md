@@ -24,6 +24,11 @@ Or contact me at adrianhenry@hey.com
 
 ## My Latest Videos
 <!-- YOUTUBE:START -->
+- [What is work life balance](https://www.youtube.com/watch?v=O4QvUNiwIlI)
+- [What Is Parcel Bundler](https://www.youtube.com/watch?v=Wwh3WJ41znI)
+- [What are Styled Components? - A Beginners Guide](https://www.youtube.com/watch?v=JFE_UuHtHT4)
+- [What does it mean to have an idea?](https://www.youtube.com/watch?v=_FqhTZQnZbE)
+- [Coding a Snake Game in 5 mins with Javascript - Speed Coding](https://www.youtube.com/watch?v=cZ0IPkF85mY)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://www.youtube.com/hungryturtledev
