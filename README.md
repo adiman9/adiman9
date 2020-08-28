@@ -31,6 +31,17 @@ Or contact me at adrianhenry@hey.com
 - [Coding a Snake Game in 5 mins with Javascript - Speed Coding](https://www.youtube.com/watch?v=cZ0IPkF85mY)
 <!-- YOUTUBE:END -->
 
+## Github
+![Adrian's github stats](https://github-readme-stats-two-cyan.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
+</br>
+[![ReadMe Card](https://github-readme-stats-two-cyan.vercel.app/api/pin/?username=adiman9&repo=p5-react-renderer)](https://github.com/adiman9/p5-react-renderer)
+[![ReadMe Card](https://github-readme-stats-two-cyan.vercel.app/api/pin/?username=adiman9&repo=pureJSCollisions)](https://github.com/adiman9/pureJSCollisions)
+[![ReadMe Card](https://github-readme-stats-two-cyan.vercel.app/api/pin/?username=HungryTurtleCode&repo=gameoflife)](https://github.com/HungryTurtleCode/gameoflife)
+[![ReadMe Card](https://github-readme-stats-two-cyan.vercel.app/api/pin/?username=HungryTurtleCode&repo=multiplayerSnake)](https://github.com/HungryTurtleCode/multiplayerSnake)
+
+
+
+
 [youtube]: https://www.youtube.com/hungryturtledev
 [website]: https://hungryturtlecode.com
 [twitter]: https://twitter.com/hungrytrtl
