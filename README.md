@@ -32,12 +32,12 @@ Or contact me at adrianhenry@hey.com
 <!-- YOUTUBE:END -->
 
 ## Github
-![Adrian's github stats](https://github-readme-stats-hd0yrbezr.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
+![Adrian's github stats](https://github-readme-stats-775kz1aki.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
 </br>
-[![ReadMe Card](https://github-readme-stats-mu-eight.vercel.app/api/pin/?username=adiman9&repo=p5-react-renderer)](https://github.com/adiman9/p5-react-renderer)
-[![ReadMe Card](https://github-readme-stats-mu-eight.vercel.app/api/pin/?username=adiman9&repo=pureJSCollisions)](https://github.com/adiman9/pureJSCollisions)
-[![ReadMe Card](https://github-readme-stats-mu-eight.vercel.app/api/pin/?username=HungryTurtleCode&repo=gameoflife)](https://github.com/HungryTurtleCode/gameoflife)
-[![ReadMe Card](https://github-readme-stats-mu-eight.vercel.app/api/pin/?username=HungryTurtleCode&repo=multiplayerSnake)](https://github.com/HungryTurtleCode/multiplayerSnake)
+[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=p5-react-renderer)](https://github.com/adiman9/p5-react-renderer)
+[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=pureJSCollisions)](https://github.com/adiman9/pureJSCollisions)
+[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=HungryTurtleCode&repo=gameoflife)](https://github.com/HungryTurtleCode/gameoflife)
+[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=HungryTurtleCode&repo=multiplayerSnake)](https://github.com/HungryTurtleCode/multiplayerSnake)
 
 
 
