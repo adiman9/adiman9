@@ -24,11 +24,11 @@ Or contact me at adrianhenry@hey.com
 
 ## My Latest Videos
 <!-- YOUTUBE:START -->
+- [Netlify and Heroku deployment for Socket IO snake game](https://www.youtube.com/watch?v=M9RDYkFs-EQ)
 - [Github Profile Readme - Your Creative Corner of Github](https://www.youtube.com/watch?v=uA1dobUQ190)
 - [What is work life balance](https://www.youtube.com/watch?v=O4QvUNiwIlI)
 - [What Is Parcel Bundler](https://www.youtube.com/watch?v=Wwh3WJ41znI)
 - [What are Styled Components? - A Beginners Guide](https://www.youtube.com/watch?v=JFE_UuHtHT4)
-- [What does it mean to have an idea?](https://www.youtube.com/watch?v=_FqhTZQnZbE)
 <!-- YOUTUBE:END -->
 
 ## Github
