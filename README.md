@@ -22,7 +22,7 @@ Some of my favourite things:
 
 Or contact me at adrianhenry@hey.com
 
-## My Latest Videos
+## 📽️ My Latest Videos
 <!-- YOUTUBE:START -->
 - [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y)
 - [Netlify and Heroku deployment for Socket IO snake game](https://www.youtube.com/watch?v=M9RDYkFs-EQ)
@@ -31,7 +31,7 @@ Or contact me at adrianhenry@hey.com
 - [What Is Parcel Bundler](https://www.youtube.com/watch?v=Wwh3WJ41znI)
 <!-- YOUTUBE:END -->
 
-## My Latest Articles
+## 📕 My Latest Articles
 <!-- ARTICLES:START -->
 - [What is Parcel Bundler?](https://hungryturtlecode.com/tutorials/parcel-bundler/)
 - [What Are Styled Components?](https://hungryturtlecode.com/tutorials/what-are-styled-components/)
