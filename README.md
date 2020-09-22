@@ -33,6 +33,11 @@ Or contact me at adrianhenry@hey.com
 
 ## My Latest Articles
 <!-- ARTICLES:START -->
+- [What is Parcel Bundler?](https://hungryturtlecode.com/tutorials/parcel-bundler/)
+- [What Are Styled Components?](https://hungryturtlecode.com/tutorials/what-are-styled-components/)
+- [How To Deploy a Library to NPM Using Travis CI](https://hungryturtlecode.com/projects/parallax-deploy-npm/)
+- [ESLint and Prettier with Husky Git Hooks](https://hungryturtlecode.com/projects/eslint-husky-parallax/)
+- [Writing tests for the Parallax Library](https://hungryturtlecode.com/projects/parallax-tests/)
 <!-- ARTICLES:END -->
 
 ## Github
