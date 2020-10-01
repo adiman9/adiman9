@@ -1,5 +1,5 @@
 ### What's Up! I'm Adrian
-I'm currently lead a software engineer trying to bring tech into the wide world. You can also find me making videos about technology on YouTube.
+I'm currently lead a software engineer trying to bring tech into the 🍷️ world. You can also find me making videos about technology on YouTube.
 
 Some of my favourite things:
 - 🎸 Playing guitar
