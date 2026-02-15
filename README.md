@@ -1,59 +1,38 @@
-### What's Up! I'm Adrian
-I'm currently lead a software engineer trying to bring tech into the 🍷️ world. You can also find me making videos about technology on YouTube.
+# Hey, I'm Adrian
 
-Some of my favourite things:
+**CTO & Co-founder at [Hyperstack](https://usehyperstack.com)** — building programmable data streams for Solana.
+
+I'm obsessed with developer experience. Currently making it ridiculously easy to get real-time onchain data into apps without touching RPCs or building custom ETL.
+
+## What I'm Building
+
+**[Hyperstack](https://github.com/HyperTekOrg/hyperstack)** — Define the onchain data you need declaratively, we handle the infrastructure. End-to-end type safety from chain to client.
+
+```bash
+npx hyperstack-cli create
+```
+
+## Tech Stack
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Solana" src="https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+## When I'm Not Coding
+
 - 🎸 Playing guitar
-- 🔌 Tinkering with electronics 
-- 🍻 Trying new beers (or drinking familiar ones with friends)
+- 🔌 Tinkering with electronics
 - 📖 Reading
-- LEARNING ALL THE THINGS! No, but seriously, I love learning
+- 🧠 Learning whatever catches my interest
 
-## Find me online
+## Find Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hungrytrtl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadiman9&screen_name=hungrytrtl)
-[![Subscribe to Hungry Turtle Code](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/hungryturtledev?sub_confirmation=1)
-
-[<img align="left" alt="hungryturtlecode.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hungry Turtle Code Youtube Channel" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Adrian's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Adrian's Patreon" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
-[<img align="left" alt="Adrian's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-</br>
-
-Or contact me at adrianhenry@hey.com
-
-## 📽️ My Latest Videos
-<!-- YOUTUBE:START -->
-- [What Are Javascript Promises [2020 Crash Course]](https://www.youtube.com/watch?v=-LrRz3_yTIk)
-- [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y)
-- [Netlify and Heroku deployment for Socket IO snake game](https://www.youtube.com/watch?v=M9RDYkFs-EQ)
-- [Github Profile Readme - Your Creative Corner of Github](https://www.youtube.com/watch?v=uA1dobUQ190)
-- [What is work life balance](https://www.youtube.com/watch?v=O4QvUNiwIlI)
-<!-- YOUTUBE:END -->
-
-## 📕 My Latest Articles
-<!-- ARTICLES:START -->
-- [What is Parcel Bundler?](https://hungryturtlecode.com/tutorials/parcel-bundler/)
-- [What Are Styled Components?](https://hungryturtlecode.com/tutorials/what-are-styled-components/)
-- [How To Deploy a Library to NPM Using Travis CI](https://hungryturtlecode.com/projects/parallax-deploy-npm/)
-- [ESLint and Prettier with Husky Git Hooks](https://hungryturtlecode.com/projects/eslint-husky-parallax/)
-- [Writing tests for the Parallax Library](https://hungryturtlecode.com/projects/parallax-tests/)
-<!-- ARTICLES:END -->
-
-## Github
-![Adrian's github stats](https://github-readme-stats-775kz1aki.vercel.app/api?username=adiman9&count_private=true&show_icons=true&theme=buefy)
-</br>
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=p5-react-renderer)](https://github.com/adiman9/p5-react-renderer)
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=pureJSCollisions)](https://github.com/adiman9/pureJSCollisions)
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=HungryTurtleCode&repo=gameoflife)](https://github.com/HungryTurtleCode/gameoflife)
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=HungryTurtleCode&repo=multiplayerSnake)](https://github.com/HungryTurtleCode/multiplayerSnake)
-
-
-
-
-[youtube]: https://www.youtube.com/hungryturtledev
-[website]: https://hungryturtlecode.com
-[twitter]: https://twitter.com/hungrytrtl
-[patreon]: https://www.patreon.com/hungryturtlecode
-[github]: https://github.com/adiman9
-[github_htc]: https://github.com/HungryTurtleCode
+[![Twitter](https://img.shields.io/badge/-@hungrytrtl-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hungrytrtl)
+[![Hyperstack](https://img.shields.io/badge/-Hyperstack-9945FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)](https://usehyperstack.com)
+[![GitHub](https://img.shields.io/badge/-HyperTekOrg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HyperTekOrg)
