@@ -9,7 +9,7 @@ I'm obsessed with developer experience. Currently making it ridiculously easy to
 **[Arete](https://github.com/AreteA4/arete)** — Define the onchain data you need declaratively, we handle the infrastructure. End-to-end type safety from chain to client.
 
 ```bash
-npx hyperstack-cli create
+npx @usearete/a4 create
 ```
 
 ## Tech Stack
