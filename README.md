@@ -1,12 +1,12 @@
 # Hey, I'm Adrian
 
-**CTO & Co-founder at [Hyperstack](https://usehyperstack.com)** — building programmable data streams for Solana.
+**CTO & Co-founder at [Arete](https://arete.run)** — building an Agent-first SDK for Solana
 
 I'm obsessed with developer experience. Currently making it ridiculously easy to get real-time onchain data into apps without touching RPCs or building custom ETL.
 
 ## What I'm Building
 
-**[Hyperstack](https://github.com/HyperTekOrg/hyperstack)** — Define the onchain data you need declaratively, we handle the infrastructure. End-to-end type safety from chain to client.
+**[Arete](https://github.com/AreteA4/arete)** — Define the onchain data you need declaratively, we handle the infrastructure. End-to-end type safety from chain to client.
 
 ```bash
 npx hyperstack-cli create
@@ -34,5 +34,5 @@ npx hyperstack-cli create
 ## Find Me
 
 [![Twitter](https://img.shields.io/badge/-@hungrytrtl-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hungrytrtl)
-[![Hyperstack](https://img.shields.io/badge/-Hyperstack-9945FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)](https://usehyperstack.com)
-[![GitHub](https://img.shields.io/badge/-HyperTekOrg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HyperTekOrg)
+[![Arete](https://img.shields.io/badge/-Arete-9945FF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)](https://arete.run)
+[![GitHub](https://img.shields.io/badge/-AreteA4-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AreteA4)
